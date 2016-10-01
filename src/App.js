@@ -3,6 +3,8 @@ import {Router, Route, Link } from 'react-router';
 import logo from './logo.svg';
 import './App.css';
 
+const Home = React.createClass({})
+
 class App extends Component {
   render() {
     return (
