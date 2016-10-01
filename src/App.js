@@ -9,9 +9,16 @@ class App extends Component {
         <div className="App-header">
           <h2>Makeup By Kryssa</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <div className="Side-Bar">
+          <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Gallery</li>
+            <li>kNotes</li>
+            <li>kVids</li>
+            <li>links</li>
+          </ul>
+        </div>
       </div>
     );
   }
