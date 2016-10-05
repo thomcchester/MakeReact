@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import {Router, Route, Link } from 'react-router';
-import logo from './logo.svg';
+// import {Router, Route, Link } from 'react-router';
 import './App.css';
 
 const Home = React.createClass({})
